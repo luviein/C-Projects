@@ -25,7 +25,7 @@ int main() {
     int direction {7};
     int axe_length {50};
 
-    // axe edges]
+    // axe edges
     int l_axe_x {axe_x};
     int r_axe_x {axe_x + axe_length};
     int u_axe_y {axe_y};
